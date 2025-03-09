@@ -2,18 +2,18 @@
 This repository contains various Java projects that I’ve developed, covering different concepts such as GUI development, database interaction, and more.
 
 ## Projects include:
-Simple calculator
-Employee login Form
-Employee Registration Form
-New Employee form
-Login form
-Student Registration Form
-Vacation Request Form
-Online Shopping Cart System
-Student Registration System
-Patient Management System
-booksRetrival
-Simple addition Form
+-Simple calculator
+-Employee login Form
+-Employee Registration Form
+-New Employee form
+-Login form
+-Student Registration Form
+-Vacation Request Form
+-Online Shopping Cart System
+-Student Registration System
+-Patient Management System
+-booksRetrival
+-Simple addition Form
 
 AND MANY OTHERS
 
